@@ -14,7 +14,7 @@ public class Hello {
         int s = 0;
         int p = 1;
         for (int i = 1; i <= n; i++) {
-            if(n%2==0){
+            if(i%2==0){
                 s=s+i;
             }
             else{
