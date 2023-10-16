@@ -21,7 +21,7 @@ public class Hello {
                 p=p*i;
             }
         }
-        System.out.println("Suma numelo este iar " + s);
-        System.out.println("Produsul numelo este iar " + p);
+        System.out.println("Suma numerelor este: " + s);
+        System.out.println("Produsul numerelor este: " + p);
     }
 }
